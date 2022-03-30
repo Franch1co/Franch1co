@@ -16,8 +16,7 @@ I'm a student currently in the last year of the Degree in Informatics Engineerin
 
 [![My Skills](https://skillicons.dev/icons?i=docker,vscode,aws,gitlab,git,powershell&theme=dark)](https://skillicons.dev)
 
-<!--
 ### My Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franch1co&layout=compact)](https://github.com/Franch1co/github-readme-stats)
--->
+
